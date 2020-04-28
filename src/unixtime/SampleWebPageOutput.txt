@@ -1,0 +1,15 @@
+abbreviation: CDT
+client_ip: 107.215.199.108
+datetime: 2020-04-25T10:31:45.025511-05:00
+day_of_week: 6
+day_of_year: 116
+dst: true
+dst_from: 2020-03-08T08:00:00+00:00
+dst_offset: 3600
+dst_until: 2020-11-01T07:00:00+00:00
+raw_offset: -21600
+timezone: America/Chicago
+unixtime: 1587828705
+utc_datetime: 2020-04-25T15:31:45.025511+00:00
+utc_offset: -05:00
+week_number: 17
