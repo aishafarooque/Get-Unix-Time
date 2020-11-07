@@ -1,4 +1,4 @@
-Using test first development, write a program that will fetch text data from the URL given below,
+Using test first development, this program will fetch text data from the URL given below,
 extract relevant details, and print the following:
 
 Unix time is X
